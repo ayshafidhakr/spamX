@@ -1,16 +1,36 @@
-# hello_world
+# 📱 SpamX - SMS Spam Detection App
 
-A new Flutter project.
+Welcome to SpamX, an SMS spam detection app designed to help users identify and predict whether incoming SMS messages are **Spam** or **Ham (not spam)**. Using machine learning, SpamX ensures that you can keep your inbox safe from unwanted messages!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 🔍 Paste or type any SMS message to check if it’s spam or not.
+- 🤖 Detects both spam(phishing,scam,promotion) and non-spam (ham) messages.
+- 📊 Keep track of your detection history.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Built With
+- **Android Studio** - Development environment for building the Android app.
+-  **Flutter** - Cross-platform mobile app framework.
+- **Python** - For implementing the spam detection model (ML).
+- **Dart** - Programming language for Flutter.
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for full details.
+
+---
+
+## 👩‍💻 Author
+
+**Aysha Fidha**  
+[GitHub Profile](https://github.com/ayshafidhakr)
+
+---
+
+> 💖 *Made with love to help keep your inbox safe from spam!*
