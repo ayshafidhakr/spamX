@@ -42,4 +42,5 @@ def predict():
     return jsonify({'prediction': 'spam' if prediction == 1 else 'ham', 'confidence': f"{confidence_score}%", 'category': category})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
+
