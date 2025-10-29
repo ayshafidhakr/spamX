@@ -33,4 +33,3 @@ See the [LICENSE](./LICENSE) file for full details.
 
 ---
 
-> 💖 *Made with love to help keep your inbox safe from spam!*
