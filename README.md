@@ -20,14 +20,6 @@ The app combines a **Flutter mobile interface** with a **Python Flask REST API**
 
 ---
 
-## 📱 Screenshots
-
-> Screenshots will be added here.
-
-<!-- Add your screenshots below -->
-
----
-
 ## 🧠 Machine Learning
 
 SpamX uses a text-classification pipeline built with **scikit-learn**.
