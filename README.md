@@ -278,7 +278,7 @@ The current API is also configured for development/local testing. A production d
 
 ## 👩‍💻 Author
 
-**Aysha F.**
+**Aysha Fidha https://github.com/ayshafidhakr.**
 
 Built as a full-stack machine-learning application combining mobile development, REST APIs, and natural-language text classification.
 
